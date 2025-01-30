@@ -1,2 +1,2 @@
-# Sodoku
- Simple Sodoku solver using recursive backtracking
+# Sudoku
+ Simple Sudoku solver using recursive backtracking
